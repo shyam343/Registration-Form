@@ -1,2 +1,2 @@
 # Registration-Form
-Registration from which contaion name 
+Registration from which contaion name,email,pwd,re-pwd and gender.
