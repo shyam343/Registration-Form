@@ -8,6 +8,7 @@
 + Uses the label tag to add descriptive text next to each input field.
 * Added a Register button to the form using the input tag with type "Register" or if you have already register the go through "Sign Up".
 - At Last Tested the form in a web browser to ensure it works as intended.
++ After completed user can sign in
 
 ### Hope You all Like It.
 ## Thank You!
