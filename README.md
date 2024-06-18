@@ -7,8 +7,8 @@
 - Applyed the internal CSS to style the form elements, including setting font styles and colors, and adding padding and borders.
 + Uses the label tag to add descriptive text next to each input field.
 * Added a Register button to the form using the input tag with type "Register" or if you have already register the go through "Sign Up".
-+ At Last Tested the form in a web browser to ensure it works as intended.
+- At Last Tested the form in a web browser to ensure it works as intended.
 
-#### Hope You all Like It.
+### Hope You all Like It.
 ## Thank You!
  
